@@ -1,5 +1,6 @@
-- Send automatic messages by whatsapp
+- Send automatic messages by whatsapp every 2 seconds
 - Read messages from a txt file and send randomly a message from this file
 - create a config file where we can get some authentification credentials
+- deploy our application in the heroku server
 - To install ConfigParser : `pip install configparser --user`
 - To install twilio : `pip install twilio`
