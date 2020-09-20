@@ -16,7 +16,7 @@ msg = random.choice(messages)
 message = client.messages.create( 
                               from_='whatsapp:+14155238886',#14155238886  
                               body= msg,      
-                              to='whatsapp:+33xxxxxxx'# 
+                              to='whatsapp:+33656666675'# 
                           ) 
  
 print(message.sid)
