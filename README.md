@@ -1,0 +1,5 @@
+- Send automatic messages by whatsapp
+- Read messages from a txt file and send randomly a message from this file
+- create a config file where we can get some authentification credentials
+- To install ConfigParser : `pip install configparser --user`
+- To install twilio : `pip install twilio`
